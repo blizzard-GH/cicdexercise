@@ -5,6 +5,7 @@ import MainHeader from './components/BHeader.vue'
 <template>
   <header>
     <MainHeader />
+    <p>Test</p>
   </header>
 
   <main>
