@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base: "https://blizzard-gh.github.io/cicdexercise/",
+  base: 'https://blizzard-gh.github.io/cicdexercise/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
